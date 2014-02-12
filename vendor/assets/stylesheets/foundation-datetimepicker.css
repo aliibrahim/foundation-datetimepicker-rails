@@ -128,10 +128,10 @@
 .table-striped .datetimepicker table tr td, .table-striped .datetimepicker table tr th {
     background-color: transparent;
 }
-.datetimepicker table tr td .day .old{
+.datetimepicker table tr td.day.old{
     color: #DDDDDD;
 }
-.datetimepicker table tr td .day .new{
+.datetimepicker table tr td.day.new{
     color: #DDDDDD;
 }
 .datetimepicker table tr td span {
