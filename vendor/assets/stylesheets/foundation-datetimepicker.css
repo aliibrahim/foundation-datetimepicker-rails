@@ -129,10 +129,10 @@
     background-color: transparent;
 }
 .datetimepicker table tr td.day.old{
-    color: #DDDDDD;
+    color: #808080;
 }
 .datetimepicker table tr td.day.new{
-    color: #DDDDDD;
+    color: #808080;
 }
 .datetimepicker table tr td span {
     display: block;
