@@ -19,6 +19,12 @@ Add the following line to your stylesheet file (`foundation_and_overrides.scss`)
 @import 'foundation-datetimepicker';
 ```
 
+##Quick instructions
+
+Call the datetimepicker via javascript:
+
+    $('.datetimepicker').fdatetimepicker()
+
 ## Usage
 
 See the excellent demo provided by plugin's author - [here](http://foundation-datepicker.peterbeno.com/example/example.html).
