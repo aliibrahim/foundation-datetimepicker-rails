@@ -18,6 +18,9 @@ Add the following line to your stylesheet file (`foundation_and_overrides.scss`)
 @import 'foundation';
 @import 'foundation-datetimepicker';
 ```
+## Update
+
+Support for Foundation5 and Foundation-Icons-3 has been added.
 
 ##Quick instructions
 
