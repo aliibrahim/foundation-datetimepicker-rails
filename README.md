@@ -35,7 +35,7 @@ Call the datepicker via javascript:
 
 ## Usage
 
-See the excellent demo provided by plugin's author - [here](http://foundation-datepicker.peterbeno.com/example/example.html).
+See the excellent demo provided by plugin's author - [here](http://foundation-datepicker.peterbeno.com/example.html).
 
 ## Contributing to the original plugin
 
