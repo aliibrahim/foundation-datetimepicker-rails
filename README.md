@@ -29,10 +29,6 @@ Call the datetimepicker via javascript:
     $('.datetimepicker').fdatetimepicker()
 
 
-Call the datepicker via javascript:
-
-    $('.datepicker').fdatepicker()
-
 ## Usage
 
 See the excellent demo provided by plugin's author - [here](http://foundation-datepicker.peterbeno.com/example.html).
