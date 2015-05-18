@@ -29,6 +29,21 @@ Call the datetimepicker via javascript:
     $('.datetimepicker').fdatetimepicker()
 
 
+### Language contribution
+Current only support English(en) and Chinese(zh), please contribute code to `vendor/assets/javascripts/foundation-datetimepicker.js` on line `1242` to support more language.
+
+
+
+### Language settings
+Add a coffeescript file like below and require it to `application.js` to call datetimepicker with a specific language.
+```coffee
+$ ->
+  $('.datetimepicker').fdatetimepicker({
+    language: 'zh'
+  });
+```
+
+
 ## Usage
 
 See the excellent demo provided by plugin's author - [here](http://foundation-datepicker.peterbeno.com/example.html).
