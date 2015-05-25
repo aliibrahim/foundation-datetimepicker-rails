@@ -2,7 +2,7 @@
 
 
 [![Gem Version](https://badge.fury.io/rb/foundation-datetimepicker-rails.svg)][gem]
-[![Dependency Status]((https://gemnasium.com/aliibrahim/foundation-datetimepicker-rails.svg)][gemnasium]
+[![Dependency Status](https://gemnasium.com/aliibrahim/foundation-datetimepicker-rails.svg)][gemnasium]
 
 [gem]: https://rubygems.org/gems/foundation-datetimepicker-rails
 [gemnasium]: https://gemnasium.com/aliibrahim/foundation-datetimepicker-rails
