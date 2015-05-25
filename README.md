@@ -1,5 +1,12 @@
 # foundation-datetimepicker-rails
 
+
+[![Gem Version](https://badge.fury.io/rb/foundation-datetimepicker-rails.svg)][gem]
+[![Dependency Status]((https://gemnasium.com/aliibrahim/foundation-datetimepicker-rails.svg)][gemnasium]
+
+[gem]: https://rubygems.org/gems/foundation-datetimepicker-rails
+[gemnasium]: https://gemnasium.com/aliibrahim/foundation-datetimepicker-rails
+
 This gem packages the foundation-datetimepicker (JavaScripts & stylesheets) for Rails 3.1+ asset pipeline. It adds ability to use [foundation-datetimepicker plugin](https://github.com/najlepsiwebdesigner/foundation-datepicker) within your Rails app without puting files inside `vendor` directory.
 
 ## Installation
