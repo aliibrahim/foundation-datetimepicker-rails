@@ -24,9 +24,9 @@ task stylesheets: :submodule do
   mkdir_p target_dir
   Rake.rake_output_message 'Generating stylesheets'
   FileUtils.cp_r Dir["foundation-datetimepicker/build/css/*"], "vendor/assets/stylesheets"
-  Dir["vendor/assets/stylesheets/*"].each do |file|
-    FileUtils.mv(file, file.gsub("min.css", "css"))
-  end
+  # Dir["vendor/assets/stylesheets/*"].each do |file|
+  #   FileUtils.mv(file, file.gsub("min.css", "css"))
+  # end
 
 end
 
