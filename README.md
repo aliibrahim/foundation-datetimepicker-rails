@@ -37,7 +37,7 @@ Call the datetimepicker via javascript:
 
 
 ### Language contribution
-Current only support English(en) and Chinese(zh), please contribute code to `vendor/assets/javascripts/foundation-datetimepicker.js` on line `1242` to support more language.
+Current only support English(en), Chinese(zh) and russian(ru), please contribute code to `vendor/assets/javascripts/foundation-datetimepicker.js` on line `1242` to support more language.
 
 
 
