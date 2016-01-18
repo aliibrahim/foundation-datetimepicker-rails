@@ -1250,6 +1250,17 @@
 			today:       "Today"
     },
 
+	es: {
+		days:        ["Domingo", "Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"],
+		daysShort:   ["Dom", "Lun", "Mar", "Mie", "Jue", "Vie", "Sab", "Dom"],
+		daysMin:     ["Do", "Lu", "Ma", "Mi", "Ju", "Vi", "Sa", "Do"],
+		months:      ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"],
+		monthsShort: ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"],
+		meridiem:    ["am", "pm"],
+		suffix:      ["", "", "", ""],
+		today:       "Hoy"
+	},
+
     zh: {
       days:        ["周日", "周一", "周二", "周三", "周四", "周五", "周六", "周日"],
       daysShort:   ["日", "一", "二", "三", "四", "五", "六", "日"],
