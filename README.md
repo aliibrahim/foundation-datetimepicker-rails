@@ -13,7 +13,7 @@ This gem packages the foundation-datetimepicker (JavaScripts & stylesheets) for 
 
 Add this line to your application's Gemfile:
 
-    gem 'foundation-datetimepicker-rails'
+    gem 'foundation-datetimepicker-rails', github: 'aliibrahim/foundation-datetimepicker-rails'
 
 Add the following directive to your Javascript manifest file (`application.js`):
 
