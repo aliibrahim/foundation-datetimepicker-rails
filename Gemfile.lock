@@ -1,23 +1,19 @@
-GEM
-  remote: http://rubygems.org/
+PATH
+  remote: .
   specs:
-    git (1.2.5)
-    jeweler (1.8.4)
-      bundler (~> 1.0)
-      git (>= 1.2.5)
-      rake
-      rdoc
-    json (1.8.0)
-    rake (10.0.4)
-    rcov (1.0.0)
-    rdoc (4.0.1)
-      json (~> 1.4)
+    foundation-datetimepicker-rails (0.2.4)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (10.5.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler
-  jeweler
-  rcov
-  rdoc
+  foundation-datetimepicker-rails!
+  rake
+
+BUNDLED WITH
+   1.11.2
